@@ -1,4 +1,4 @@
-class Solution {
+public class Leetcode724 {
     public int pivotIndex(int[] nums) {
         int n = nums.length;
         int leftSum = 0;
