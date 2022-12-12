@@ -19,3 +19,10 @@ class Solution {
         return answer;
     }
 }
+
+/*
+    Time complexity: O(n)
+
+    Space complexity: O(n)
+    (creating an array answer size of which depends on the size of the given array)
+ */
