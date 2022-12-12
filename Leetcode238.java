@@ -1,4 +1,4 @@
-class Solution {
+public class Leetcode238 {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
         int[] answer = new int[n];
