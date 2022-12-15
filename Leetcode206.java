@@ -14,7 +14,7 @@
  * }
  */
  
-class Solution {
+public class Leetcode206 {
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
 
