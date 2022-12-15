@@ -15,7 +15,7 @@ public class Problem1 {
 }
 
 /*
-    Time complexity: O(n)
+    Time complexity: O(logn)
     (depends on the number of 1 bits in the number)
 
     Space complexity: O(1)
