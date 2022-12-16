@@ -34,8 +34,7 @@ public class Leetcode88 {
 }
 
 /*
-    Time complexity: O(n)
-    (O(n + m) = O(n))
+    Time complexity: O(n + m)
 
     Space complexity: O(1)
  */
