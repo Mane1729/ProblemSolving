@@ -27,15 +27,12 @@ public class Leetcode104 {
             return 0;
         }
 
-        int leftDepth = maxDepth(root.left);
-        int rightDepth = maxDepth(root.right);
-
-        return Math.max(leftDepth, rightDepth) + 1;
+        return Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
     }
 }
 
 /*
     Time complexity: O(n)
 
-    Space complexity: O(n)
+    Space complexity: O(1)
  */
